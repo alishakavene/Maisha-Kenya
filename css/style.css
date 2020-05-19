@@ -1,0 +1,24 @@
+/* Navigation bar styling */
+.navbar-toggle{
+  width: 42px;
+  height: 38px;
+  float: right;
+  margin-top: 10px;
+}
+
+.navbar-toggle * {
+	-ms-transition: all 0.5s ease;
+  -webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.navbar-toggle span {
+	width: 20px;
+	height: 2px;
+	margin-bottom: 3px;
+	background-color: green;
+	display: block;
+}
+
