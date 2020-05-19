@@ -1,2 +1,7 @@
 # Maisha-Kenya
-Day 1
+## AUTHOR 
+* WillFred Muema
+* Alisha Kavene
+* Jacinta Chege
+* Kelvin Keya 
+* Christine 
