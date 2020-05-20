@@ -61,11 +61,6 @@ list-style: none;
   transform: translate(-50% -50%);
   color: white;
 }
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
 
 img{
   height: 730px;
