@@ -2,6 +2,24 @@ body{
 	padding: 0px;
 	margin: 0px;
   }
+
+.footer{
+  background-color: #419ab5;
+ height: 60px;
+}
+
+.social ul{
+  display: flex;
+}
+
+.social ul li{
+color: white;
+height: 16px;
+margin-top: 10px;
+line-height: 12px;
+padding: 20px;
+}
+
   #navbar{
 	display:flex;
 	justify-content: space-between;
