@@ -183,9 +183,9 @@ color:white;
   height: 25px;
 }
 .card{
-  border-radius: none;
   height: 350px;
-  width: 250px;
+  width: 300px;
+  margin: 20px;
 }
 h4 {
 
