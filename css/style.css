@@ -49,8 +49,9 @@ list-style: none;
   color:  #419ab5;
 }
   
-.d-block w-100{
+.img{
   height: 730px;
+width:100%;
 }
 .welcome-text{
 	margin-top: -500px;
