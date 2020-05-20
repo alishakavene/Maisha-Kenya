@@ -29,7 +29,7 @@ body{
   background-color: white;
   color:  #419ab5;
 }
- img{
+.d-block img{
   height: 730px;
   width: 100%;
 }
@@ -45,11 +45,6 @@ body{
   left:40%;
   transform: translate(-50% -50%);
   color: white;
-}
-
-img{
-  height: 730px;
-  width: 100%;
 }
 .main h2{
 	text-transform: uppercase;
