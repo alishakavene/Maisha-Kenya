@@ -256,8 +256,8 @@ h4::after {
   display: flex;
 }
 .item img{
-	height: 100px;
-	width:120px;
+	height: 80px;
+	width:	80px;
 }
 .item:nth-child(3) {
   border-top:  1px solid #E1E8EE;
