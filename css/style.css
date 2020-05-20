@@ -68,14 +68,16 @@ img{
 	text-align: center;
 	font-style: normal;
 	font-family: Times New Roman;
-	font-size: 14 px;
+	font-size: medium;
+	color: mediumblue;
 }
-.about <p{
+.about p{
 	font-style: normal;
 	text-align: center;
-	font-size: 25px;
+	font-size: 35px;
+	font-weight: bold;
 }
-container{
+.container{
 	width: 100%;
 	margin-top: 10%;
 	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
