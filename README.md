@@ -1,5 +1,6 @@
 # Maisha-Kenya
-## AUTHOR
+
+## AUTHORS 
 * Wilfred Muema
 * Alisha Kavene
 * Kelvin Keya

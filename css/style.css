@@ -1,4 +1,4 @@
-body{
+body {
 	padding: 0px;
 	margin: 0px;
   }
@@ -44,7 +44,6 @@ img{
   height: 730px;
   width: 100%;
 }
-
 .footer ul {
 	list-style: none;
 	text-align: center;
@@ -56,3 +55,4 @@ img{
 .tm-col-footer ul {
 	list-style: none;
 }
+
