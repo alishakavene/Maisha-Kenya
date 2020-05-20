@@ -54,6 +54,10 @@ body{
 	font-size: medium;
 	color: mediumblue;
 }
+img{
+  height: 730px;
+  width: 100%;
+}
 .about p{
 	font-style: normal;
 	text-align: center;
